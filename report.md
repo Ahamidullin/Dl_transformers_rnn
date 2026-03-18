@@ -1,4 +1,6 @@
 
+> **Baseline:** [bhw2_gru.ipynb](https://github.com/Ahamidullin/Dl_transformers_rnn/blob/main/bhw2_gru.ipynb)
+
 ## 1. Описание архитектуры - baseline
 
 В качестве базовой архитектуры я выбрал модель Seq2Seq с механизмом внимания Bahdanau(additive attention). Выбрал такое сочетание так как эта связка хорошо подходит для данных малого и среднего размеров
